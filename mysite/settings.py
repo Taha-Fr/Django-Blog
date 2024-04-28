@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-a@7s7s4f5&ogc&c1(^47wn4)xfejmm8o-=d&q!!p3-+xd_2iac
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["127.0.0.1", 'miraii.pythonanywere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'miraii.pythonanywere.com', 'www.miraii.pythonanywhere.com']
 
 
 # Application definition
